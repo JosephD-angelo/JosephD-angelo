@@ -1,8 +1,8 @@
 # Hello, my name is Joseph D'Angelo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?JosephD-angelo=<JosephD-angelo>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?JosephD-angelo=<JosephD-angelo>&theme=<THEME_NAME>" />
 
-
+top-langs
 - 👋 Hi, I’m @JosephD-angelo
 - 👀 I’m interested in front end and game development
 - 🌱 I’m currently learning html, css, and java script
