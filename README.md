@@ -1,6 +1,7 @@
 # Hello, my name is Joseph D'Angelo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?JosephD-angelo=<JosephD-angelo>&theme=<THEME_NAME>" />
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
 top-langs
 - 👋 Hi, I’m @JosephD-angelo
