@@ -11,4 +11,4 @@
 ## Contact
 - [personal-website-soon](#)
 - [@Joseph_D125](https://twitter.com/Joseph_D125) on Twitter
-- [/Joe#5371](./) on Discord
+- [/Joe#5371](https://discord.gg/K4g3vT7fnw) on Discord
