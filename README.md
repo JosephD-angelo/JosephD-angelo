@@ -8,6 +8,10 @@
 - 👨‍💻 C#
 - 👁️ CSS
 
+## Previous work
+- 👨‍💻 Discord bots, untiy games
+- 👁️ web design
+
 ## Contact
 - [personal-website-soon](#)
 - [@Joseph_D125](https://twitter.com/Joseph_D125) on Twitter
