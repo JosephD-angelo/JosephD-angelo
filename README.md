@@ -1,3 +1,6 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
 - 👋 Hi, I’m @JosephD-angelo
 - 👀 I’m interested in front end and game development
 - 🌱 I’m currently learning html, css, and java script
