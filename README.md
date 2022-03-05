@@ -9,7 +9,7 @@
 - 👁️ CSS
 
 ## Previous work
-- 👨‍💻 Discord bots, untiy games
+- 👨‍💻 Discord bots, unity games
 - 👁️ web design
 
 ## Contact
