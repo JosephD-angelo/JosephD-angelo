@@ -5,8 +5,9 @@
 - contact me joeydangelo125@gmail.com
 
 ## Skills
-- 👨‍💻 C#
-- 👁️ CSS
+- C#
+- CSS
+- Swift
 
 ## Previous work
 - 👨‍💻 Discord bots, unity games
